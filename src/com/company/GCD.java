@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class GCD {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
-// Prompt the user to enter two integers
+        // Prompt the user to enter two integers
         System.out.print("Enter first integer: ");
         int n1 = input.nextInt();
         System.out.print("Enter second integer: ");

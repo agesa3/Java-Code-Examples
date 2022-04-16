@@ -13,9 +13,5 @@ public class Time {
         int seconds=second%60;
 
         System.out.println("Time: "+ hour+":"+minutes+":"+seconds);
-
-        System.out.println(0B1111); // Displays 15
-        System.out.println(07777); // Displays 4095
-        System.out.println(0XFFFF); // Displays 65535
     }
 }

@@ -16,9 +16,9 @@ public class PersonInheritance {
     }
 }
 class Person{
-    private Date dob;
-    private String name;
-    private String gender;
+    protected Date dob;
+    protected String name;
+    protected String gender;
 
     public void setName(String name) {
         this.name = name;
@@ -49,6 +49,7 @@ class Person{
         System.out.println("Gender: "+getGender());
     }
 }
+
 class Student extends Person{
     private String regNo;
     private String programme;

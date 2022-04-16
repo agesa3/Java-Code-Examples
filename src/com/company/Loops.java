@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Loops {
     public static void main(String[] args) {
-        whileloop oneEg=new whileloop();
+        whileloop oneEg = new whileloop();
         oneEg.loopOne();
         oneEg.loopTwo();
         oneEg.dowhileloop();
@@ -38,7 +38,7 @@ class whileloop {
         System.out.println("You got it!");
     }
 
-    public void dowhileloop(){
+    public void dowhileloop() {
         Scanner input = new Scanner(System.in);
         int number, max;
         number = input.nextInt();

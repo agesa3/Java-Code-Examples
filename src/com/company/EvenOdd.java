@@ -13,8 +13,6 @@ public class EvenOdd {
 
 class checkEvenOdd {
     public double x;
-
-
     public void numbers() {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter value 1: ");

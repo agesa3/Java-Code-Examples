@@ -2,18 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58aeb8d9-635f-47be-9a0c-eb5a4bfec3db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/MathRandomTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/PersonInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Pic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Shapes2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Stringsclasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TimeInputbyuser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/META-INF/OopTwo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/AverageNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/AverageNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/AverageOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/AverageOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/CircleDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/CircleDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/CircleE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/CircleE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/CircleExt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/CircleExt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/CircleN.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/CircleN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/ComputeArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/ComputeArea.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/ConvertStringToInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/ConvertStringToInt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ConvertStringToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ConvertStringToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/ConvertToHex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/ConvertToHex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/CopyArrayForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/CopyArrayForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/EvenOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/EvenOdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/FahreneitToCelcius.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/FahreneitToCelcius.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/GCD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Loops.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/Loops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/MathFun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/MathFun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/MathRandom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/MathRandom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/MathRandomTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/Member.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/MethodOverload.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/MethodOverload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Multiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/MultiplicationTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/MultiplicationTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/NewTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/NewTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/ParseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/ParseArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/PersonInheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/PersonInheritance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Pic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Precedence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/Precedence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Rec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/Rec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/RectangleN.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/RectangleN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Shapes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/Shapes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Shapes2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/Shapes2D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/Simple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/SimpleArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/SimpleArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/StringObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/StringObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Stringsclasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/Stringsclasses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Swaping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/Swaping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/SwitchStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/SwitchStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/TeamExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/TeamExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/Time.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/TimeInputbyuser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/TimeInputbyuser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/TimeNew.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/TimeNew.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/TimeTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/TimeTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/Typecasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/Typecasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/checkEvenOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/checkEvenOdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OopTwo/com/company/whileloop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OopTwo/com/company/whileloop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/EvenOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/GCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/MathRandomTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/MethodOverload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MethodOverload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Multiplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ParseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ParseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/PersonInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/PersonInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Pic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Precedence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Precedence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Shapes2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Shapes2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Simple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Simple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/SimpleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/SimpleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Stringsclasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Stringsclasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/SwitchStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/SwitchStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Typecasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Typecasting.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +94,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -40,10 +104,17 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,21 +128,9 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.PersonInheritance">
-    <configuration name="Multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Multiplication" />
+  <component name="RunManager" selected="Application.Circle">
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Circle" />
       <module name="OopTwo" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.PersonInheritance" />
+    <configuration name="ComputeArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ComputeArea" />
       <module name="OopTwo" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +155,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Pic" />
+    <configuration name="ConvertStringToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ConvertStringToInt" />
       <module name="OopTwo" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shapes2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Shapes2D" />
+    <configuration name="ConvertToHex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ConvertToHex" />
       <module name="OopTwo" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +181,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.TimeNew" />
+    <configuration name="CopyArrayForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CopyArrayForLoop" />
       <module name="OopTwo" />
       <extension name="coverage">
         <pattern>
@@ -136,22 +195,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Multiplication" />
-      <item itemvalue="Application.Pic" />
-      <item itemvalue="Application.TimeNew" />
-      <item itemvalue="Application.PersonInheritance" />
-      <item itemvalue="Application.Shapes2D" />
+      <item itemvalue="Application.CopyArrayForLoop" />
+      <item itemvalue="Application.ConvertToHex" />
+      <item itemvalue="Application.ConvertStringToInt" />
+      <item itemvalue="Application.ComputeArea" />
+      <item itemvalue="Application.Circle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PersonInheritance" />
-        <item itemvalue="Application.Shapes2D" />
-        <item itemvalue="Application.TimeNew" />
-        <item itemvalue="Application.Pic" />
-        <item itemvalue="Application.Multiplication" />
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.ComputeArea" />
+        <item itemvalue="Application.ConvertStringToInt" />
+        <item itemvalue="Application.ConvertToHex" />
+        <item itemvalue="Application.CopyArrayForLoop" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -216,9 +276,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>

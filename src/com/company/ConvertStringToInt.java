@@ -5,9 +5,6 @@ public class ConvertStringToInt {
         String numberOne="1234";
         String myNumber="45";
 
-        /*
-        double answer=Double.parseDouble(sum);
-        System.out.println(answer); //wrong*/
         int intValue = Integer.parseInt(numberOne);
         System.out.println(intValue);
 
